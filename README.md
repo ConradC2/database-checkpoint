@@ -2,5 +2,5 @@
 database-checkpoint
 
 #Challenge 1 
-\n
+/n
 ![Screenshot](Challenge1.png)
